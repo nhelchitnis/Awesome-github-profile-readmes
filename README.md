@@ -1,11 +1,15 @@
-# Awesome Github Profile Readmes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Awesome Github Profile Readmes  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 > A curated list of the most impressive and amazing Github Profiles
 >
 
 ## Categories
-- [Out of the Box](https://github.com/nhelchitnis/Awesome-github-profile-readmes/Out-Of-The-Box)
-- [Dynamic-README](https://github.com/nhelchitnis/Awesome-github-profile-readmes/Dynamic-README)
+#### Github Actions 🤖
+- [Abhishek Naiidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+
+#### Out of the Box
+
+#### Dynamic README 💫
 
 ## License
 
