@@ -10,6 +10,7 @@
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 - [Athul Cyriac Ajay](https://github.com/athul/athul)
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
+- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 
 #### Out of the Box
 
@@ -22,7 +23,6 @@
 #### Typing Mode 
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
