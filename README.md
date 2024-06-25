@@ -10,6 +10,7 @@
 #### Out of the Box
 
 #### Dynamic README 💫
+- [Anurag Harza](https://github.com/anuraghazra/anuraghazra)
 
 ## License
 
