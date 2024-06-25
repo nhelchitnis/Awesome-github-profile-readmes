@@ -20,6 +20,8 @@
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 
 #### Typing Mode 
+- [Mathieu Ledru](https://github.com/matyo91/matyo91)
+- [CyrisXD](https://github.com/CyrisXD/CyrisXD)
 
 ## License
 
