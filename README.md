@@ -6,6 +6,7 @@
 ## Categories
 #### Github Actions 🤖
 - [Abhishek Naiidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Brian Douglas](https://github.com/bdougie/bdougie)
 
 #### Out of the Box
 
