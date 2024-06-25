@@ -8,7 +8,8 @@
 - [Abhishek Naiidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
-
+- [Athul Cyriac Ajay](https://github.com/athul/athul)
+- [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
 
 #### Out of the Box
 
@@ -17,6 +18,8 @@
 
 #### 🎮 Game Mode
 - [Tim Burgan](https://github.com/timburgan/timburgan)
+
+#### Typing Mode 
 
 ## License
 
