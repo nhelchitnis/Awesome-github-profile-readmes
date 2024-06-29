@@ -17,7 +17,7 @@
 
 #### Dynamic README 💫
 - [Anurag Harza](https://github.com/anuraghazra/anuraghazra)
-
+- [DenverCoder1](https://github.com/denvercoder1/denvercoder1)
 #### 🎮 Game Mode
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 
