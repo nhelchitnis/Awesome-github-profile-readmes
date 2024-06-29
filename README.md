@@ -13,17 +13,24 @@
 - [Gautam Krishna R](https://github.com/gautamkrishnar/gautamkrishnar)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 
-#### Out of the Box
+#### Out of the Box 🌈
+
 
 #### Dynamic README 💫
 - [Anurag Harza](https://github.com/anuraghazra/anuraghazra)
 - [DenverCoder1](https://github.com/denvercoder1/denvercoder1)
-#### 🎮 Game Mode
+- [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
+
+
+#### Game Mode 🎮 
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 
-#### Typing Mode 
+
+#### Typing Mode 💻  
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 - [CyrisXD](https://github.com/CyrisXD/CyrisXD)
+
+  
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
